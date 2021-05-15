@@ -1,5 +1,5 @@
 {
-  "name": "vite-vanilla-ts",
+  "name": "inline-testing",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
